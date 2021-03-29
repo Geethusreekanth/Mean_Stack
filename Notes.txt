@@ -1,0 +1,37 @@
+First Class
+......................
+html Tags  :> head, body 
+	      ol ,ul ---->li
+		b ,strong
+		i, em
+		p
+		img
+		a
+		br
+
+
+Day2
+------------------------------------------
+From
+	label===>Attribute -for
+
+input ---- text,email,radio,submit   radio<label>radio--->name -common
+select
+textarea 
+placeholder
+
+
+inline and block element
+
+CSS
+::::::::::::::::::::::::::::::::::::::::::::;
+1. Inline Style sheet
+2. Internal Style sheet
+3. External Style sheet
+
+
+Synta
+tagname {
+ property1:value ;
+
+}

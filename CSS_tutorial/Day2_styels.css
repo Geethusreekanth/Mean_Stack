@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+}
+div{
+
+    width:30%;
+    height:30%;
+    color:white;
+    float:left;
+    border-width: 2px;
+    border-style: solid;;
+}
+
+h1{
+
+    color: white;
+    text-decoration:underline;
+    text-align:center;
+}
+img{
+    width: 100%;
+}
+
+label{
+    text-align:center;
+    color:cornsilk;
+}

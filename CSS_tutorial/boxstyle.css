@@ -1,0 +1,16 @@
+div{
+    border-color:blue ;
+    border-style: dashed;
+    border-width: 2px;
+    height: 20%;
+    width: 40%;
+    margin-left: 200px;
+    padding-left: 10%;
+}
+#bottom{
+
+    position: relative;
+    margin-top: 35%;
+    text-align: center;
+    
+}
